@@ -11,6 +11,17 @@ I'm **Tushar Bhalla**
 - 📊 Specializing in **C++, ROOT (CERN), and large-scale data analysis through $O^2$ Framework**  
 - 🌌 Passionate about understanding the **fundamental nature of matter**  
 - 📸 Outside physics: **Photography, Cycling, and Music**  
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeptotera&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zeptotera=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## ✍️ My Gists
+You can find my public Gists [here](https://gist.github.com/zeptotera).
+
 
 <!--
 **zeptotera/zeptotera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
