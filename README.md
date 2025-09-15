@@ -1,13 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Tushar Bhalla
+I'm **Tushar Bhalla**  
 
-**Ph.D. Researcher in Experimental Heavy Ion Physics working in ALICE-CERN Collaboration**  
-Specializing in C++, data analysis, and ROOT (CERN).
-Passionate about exploring the fundamental nature of the universe through advanced data-driven techniques.
+🎓 **Ph.D. Researcher in Experimental Heavy Ion Physics**  
+🔬 Member of the **ALICE Collaboration @ CERN**  
 
-In my free time, I enjoy photography, Cycling and listening to Music.
+---
 
+### 🚀 About Me
+- 📊 Specializing in **C++, ROOT (CERN), and large-scale data analysis**  
+- 🌌 Passionate about understanding the **fundamental nature of matter**  
+- 📸 Outside physics: **Photography, Cycling, and Music**  
 
 <!--
 **zeptotera/zeptotera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
