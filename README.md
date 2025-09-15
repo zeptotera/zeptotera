@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#I'm Tushar Bhalla
+I'm Tushar Bhalla
 
 **Ph.D. Researcher in Experimental Heavy Ion Physics working in ALICE-CERN Collaboration**  
 Specializing in C++, data analysis, and ROOT (CERN).
