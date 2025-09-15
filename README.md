@@ -8,7 +8,7 @@ I'm **Tushar Bhalla**
 ---
 
 ### 🚀 About Me
-- 📊 Specializing in **C++, ROOT (CERN), and large-scale data analysis**  
+- 📊 Specializing in **C++, ROOT (CERN), and large-scale data analysis through $O^2$ Framework**  
 - 🌌 Passionate about understanding the **fundamental nature of matter**  
 - 📸 Outside physics: **Photography, Cycling, and Music**  
 
