@@ -10,7 +10,7 @@ I'm **Tushar Bhalla**
 ### 🚀 About Me
 - 📊 Specializing in **large-scale data analysis through $O^2$ Framework**  
 - 🌌 Passionate about understanding the **fundamental nature of matter**  
-- 📸 Outside physics: **Photography, Cycling, and Music**  
+- 📸 Outside physics: **Running, Photography, Cycling, and Music**  
 ---
 <!--
 ## 📊 GitHub Stats
