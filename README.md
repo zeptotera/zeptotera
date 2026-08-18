@@ -3,7 +3,7 @@
 I'm **Tushar Bhalla**  
 
  **Ph.D. Researcher in Experimental Heavy Ion Physics at Panjab University, Chandigarh - India**  
- **Master of Science: University of Delhi - India**
+ **Master of Science in Physics from University of Delhi - India**
 
 ---
 ### 🚀 About Me
