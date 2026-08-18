@@ -7,7 +7,7 @@ I'm **Tushar Bhalla**
 ---
 ### 🚀 About Me
 - 🌌 Passionate about understanding the **fundamental nature of matter**  
-- 📸 Outside physics: **Running, Cycling, Photography, and Music**  
+- 📸 Outside physics: **Runner, Cyclist, Photographer and Memer**  
 ---
 <!--
 ## 📊 GitHub Stats
