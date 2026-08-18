@@ -3,10 +3,7 @@
 I'm **Tushar Bhalla**  
 
 🎓 **Ph.D. Researcher in Experimental Heavy Ion Physics at Panjab University, Chandigarh - India**  
-🔬 Member of the **ALICE Collaboration @ CERN**  
-
 ---
-
 ### 🚀 About Me
 - 🌌 Passionate about understanding the **fundamental nature of matter**  
 - 📸 Outside physics: **Running, Cycling, Photography, and Music**  
